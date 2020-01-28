@@ -1,0 +1,2 @@
+# python-workshop
+In this repository you may find a Jupyter Notebook containing multiple Python exercises to practice introductory Python. You may also find the files needed to complete some of the exercises.
